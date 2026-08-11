@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felice+Anggie!;" />
 </h1>
 
-<h3 align="center">A passionate in Web Development, Software Engineering, and Data Science.</h3>
+<h3 align="center">A passionate in Data Science, Software Engineering, and Web Development.</h3>
 <br/>
 
 <div align="center">
-🔭 I'm currently studying in Information Systems at Del Institute of Technology<br>
-💻 I enjoy building web applications, exploring new technologies, and solving real-world problems. <br>
+🔭 Information Systems student at Institut Teknologi Del, expected graduated in 2026.<br>
+💻 I enjoy working with Python, exploring data, building web applications, exploring new technologies, and solving real-world problems. <br>
 </div>  
 <br/>
 
@@ -26,8 +26,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,git,mysql,mongodb,postgres,postman,c" />
-    <img src="https://skillicons.dev/icons?i=java,python,bootstrap,tailwind,figma,nodejs,github,django,laravel,anaconda,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sql,git" />
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,php,js,mysql,mongodb,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,nodejs,github,django,laravel,anaconda,maven" /><br>
 </div>
 
 
